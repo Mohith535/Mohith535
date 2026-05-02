@@ -143,11 +143,11 @@ TaskFlow is the first instrument in this orchestra. More are coming.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohith535&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Mohith's GitHub Stats" />
+<img src="./assets/stats.png" alt="Mohith's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith535&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="./assets/languages.png" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mohith535&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="./assets/streak.png" alt="GitHub Streak" />
 
 </div>
 
